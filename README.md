@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdessamad-12&label=Profile%20views&color=0e75b6&style=flat" alt="abdessamad-12" /> </p>
 
-- 🌱 I’m currently learning **Deep learning and Machine learning**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/abdessamad-akharaz-88a2b0280/](https://www.linkedin.com/in/abdessamad-akharaz-88a2b0280/)
+- 🌱 I’m currently learning **Deep learning and Machine learning**
 
 - 📫 How to reach me **Akharazabdessamad@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/abdessamad-akharaz-88a2b0280/](https://www.linkedin.com/in/abdessamad-akharaz-88a2b0280/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
