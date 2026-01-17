@@ -6,7 +6,7 @@
 </p>
 
 - 💡 Passionate about **designing scalable data pipelines**, **real-time processing**, and **data-driven solutions**  
-- 🛠 Skilled in **Data Engineering tools** such as Apache Spark, Kafka, Airflow, PostgreSQL, and MongoDB  
+- 🛠 Skilled in **Data Engineering tools** such as Apache Spark, Kafka, Airflow, PostgreSQL, Cassandra, and MongoDB,   
 - 🤝 Strong **problem-solving mindset** with a focus on optimizing workflows and building efficient architectures  
 - 📫 How to reach me **Akharazabdessamad@gmail.com**
 
